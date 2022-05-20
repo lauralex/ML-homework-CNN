@@ -1,0 +1,13 @@
+name: proj
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - torchvision
+  - pytorch
+  - torchaudio
+  - cudatoolkit=11.3
+  - jupyter
+  - matplotlib
+prefix: C:\Users\Authority\miniconda3\envs\proj
