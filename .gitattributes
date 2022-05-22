@@ -105,6 +105,7 @@
 
 # Jupyter notebook
 *.ipynb  text
+*.pth.tar filter=lfs diff=lfs merge=lfs -text
 
 # Note: .db, .p, and .pkl files are associated
 # with the python modules ``pickle``, ``dbm.*``,

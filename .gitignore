@@ -168,5 +168,6 @@ cython_debug/
 
 data/*
 models/*
+!models/dog3_best.pth.tar
 !data/README.md
 !models/README.md
