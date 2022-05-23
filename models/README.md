@@ -1,2 +1,2 @@
 # Models folder
-This folder will contain the downloaded pretrained models
+This folder will contain my personally trained models
